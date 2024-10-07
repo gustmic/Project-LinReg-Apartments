@@ -4,7 +4,7 @@
 This project aims to develop a machine learning model using supervised learning techniques to predict apartment prices in Midsommarkransen, Stockholm, Sweden for 2024.
 
 ## Data
-The initial dataset includes various features such as Adress, Price, Living Area, Monthly Fee, and Year of Building and the data was collected from the Swedish Real Estate site www.booli.se(https://www.booli.se).
+The initial dataset includes various features such as Adress, Price, Living Area, Monthly Fee, and Year of Building and the data was collected from the Swedish Real Estate site [www.booli.se](https://www.booli.se).
 
 ## Methodology
 We employed linear regression to predict prices, utilizing transformations, scaling and tuning of models to enhance model performance.
