@@ -11,7 +11,7 @@ We employed linear regression to predict prices, utilizing transformations, scal
 
 ## Results
 The final model achieved an R² score of 0.92 (based on test set), indicating strong predictive capability.
-On previously unseen data, the R² score was 0.87.
+<br> On previously unseen data, the R² score was 0.87.
 
 ## Usage
 To run the code, clone this repository and ensure you have the required libraries installed. Execute the main script to train the model and make predictions.
